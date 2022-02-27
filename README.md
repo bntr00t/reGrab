@@ -1,7 +1,7 @@
 # reGrab
 Simple pretty UD Token Grabber
 
-## Installation, Compiling & Usage
+## Installation, Compiling
 ### Installation
 ```
 pip install -r requirements.txt
